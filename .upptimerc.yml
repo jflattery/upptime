@@ -5,6 +5,8 @@ repo: upptime
 sites:
   - name: Baby
     url: $SECRET_SITE
+  - name: HASS
+    url: $HASS_SITE
 
 status-website:
   baseUrl: /upptime
