@@ -6,7 +6,9 @@ sites:
   - name: Baby
     url: $SECRET_SITE
   - name: HASS
+    check: "tcp-ping"
     url: $HASS_SITE
+    port: $HASS_PORT
 
 status-website:
   baseUrl: /upptime
