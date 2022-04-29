@@ -4,7 +4,7 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "baby",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -13,7 +13,7 @@
     "time": 399,
     "timeDay": 424,
     "timeWeek": 371,
-    "timeMonth": 399,
+    "timeMonth": 402,
     "timeYear": 399,
     "dailyMinutesDown": {}
   },
